@@ -37,10 +37,10 @@ CMakeLists.txt.user
 # Generated
 assimp.pc
 assimp.aps
-revision.h
-contrib/zlib/zconf.h
+#revision.h
+#contrib/zlib/zconf.h
 contrib/zlib/zlib.pc
-include/assimp/config.h
+#include/assimp/config.h
 unit.vcxproj.user
 
 # CMake
